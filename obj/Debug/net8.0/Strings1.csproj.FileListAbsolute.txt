@@ -1,0 +1,14 @@
+C:\Users\ET73\Downloads\projetos-c#\Strings1\bin\Debug\net8.0\Strings1.exe
+C:\Users\ET73\Downloads\projetos-c#\Strings1\bin\Debug\net8.0\Strings1.deps.json
+C:\Users\ET73\Downloads\projetos-c#\Strings1\bin\Debug\net8.0\Strings1.runtimeconfig.json
+C:\Users\ET73\Downloads\projetos-c#\Strings1\bin\Debug\net8.0\Strings1.dll
+C:\Users\ET73\Downloads\projetos-c#\Strings1\bin\Debug\net8.0\Strings1.pdb
+C:\Users\ET73\Downloads\projetos-c#\Strings1\obj\Debug\net8.0\Strings1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ET73\Downloads\projetos-c#\Strings1\obj\Debug\net8.0\Strings1.AssemblyInfoInputs.cache
+C:\Users\ET73\Downloads\projetos-c#\Strings1\obj\Debug\net8.0\Strings1.AssemblyInfo.cs
+C:\Users\ET73\Downloads\projetos-c#\Strings1\obj\Debug\net8.0\Strings1.csproj.CoreCompileInputs.cache
+C:\Users\ET73\Downloads\projetos-c#\Strings1\obj\Debug\net8.0\Strings1.dll
+C:\Users\ET73\Downloads\projetos-c#\Strings1\obj\Debug\net8.0\refint\Strings1.dll
+C:\Users\ET73\Downloads\projetos-c#\Strings1\obj\Debug\net8.0\Strings1.pdb
+C:\Users\ET73\Downloads\projetos-c#\Strings1\obj\Debug\net8.0\Strings1.genruntimeconfig.cache
+C:\Users\ET73\Downloads\projetos-c#\Strings1\obj\Debug\net8.0\ref\Strings1.dll
